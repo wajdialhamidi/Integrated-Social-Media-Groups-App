@@ -93,9 +93,9 @@ I was responsible for the **entire development process**, including:
 ## 📸 Screenshots
 *(Add your screenshots in `/screenshots` folder)*
 
-| User App | Admin App | Backend Overview |
+| Home | Filter | New Group |
 |-----------|------------|------------------|
-| ![User](screenshots/user.png) | ![Admin](screenshots/admin.png) | ![Backend](screenshots/backend.png) |
+| ![Home](screenshot/home.jpg) | ![filter](screenshot/filter.jpg) | ![New Group](screenshot/new_group.jpg) |
 
 ---
 
