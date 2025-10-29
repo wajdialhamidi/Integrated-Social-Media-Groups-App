@@ -105,6 +105,5 @@ You can try the applications directly from the Google Play Store:
 
 ### 🧭 User App
 📱 **Social Media Groups App**  
-🔗 [Download from Google Play]([https://play.google.com/store/apps/details?id=com.akgroupslinks])
-
+🔗 [Download from Google Play](https://play.google.com/store/apps/details?id=com.akgroupslinks)
 
